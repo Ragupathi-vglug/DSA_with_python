@@ -4,7 +4,7 @@ print(square(5))
 
 # Using two arguments
 n=lambda a,b:a+b
-print(n)
+print(n(10,10))
 
 # Maximum
 num=lambda x,y:x if x>y else y
