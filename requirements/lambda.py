@@ -14,4 +14,3 @@ students=[("Ragu",90),("pathi",80),("chelsie",99)]
 print("Before ",students)
 students.sort(key=lambda x:x[1])
 print("After :",students)
-
