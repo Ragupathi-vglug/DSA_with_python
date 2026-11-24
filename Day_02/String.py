@@ -4,3 +4,4 @@ address='''216 Ambedkar street'''
 print(name,age,address)
 print(name[0])
 
+print(name)
